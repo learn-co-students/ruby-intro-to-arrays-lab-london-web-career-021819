@@ -1,8 +1,3 @@
-#my_new_array = [ ]
-=begin
-def badge_maker(name)
-   return "Hello, my name is #{name}."
-=end
 
 def instantiate_new_array
   instantiate_new_array = []
